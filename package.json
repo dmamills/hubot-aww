@@ -1,0 +1,9 @@
+{
+  "name": "hubot-aww",
+  "version": "0.1.0",
+  "description": "posts pics from /r/aww",
+  "author": "dmills",
+  "license": "MIT",
+  "dependencies": {
+  }
+}
